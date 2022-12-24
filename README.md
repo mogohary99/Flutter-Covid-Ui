@@ -1,4 +1,4 @@
-# covid_way
+# Flutter Covid Ui
 
 A new Flutter application.
 
